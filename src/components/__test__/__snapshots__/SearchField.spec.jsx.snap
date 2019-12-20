@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should call onSearchRequestDone 1`] = `
+<div>
+  <div
+    class="test-search-field"
+  >
+    <span>
+      search icon
+    </span>
+    <input
+      class="test-search-input-field"
+      placeholder="Search for a product"
+      type="text"
+      value=""
+    />
+    <div />
+  </div>
+</div>
+`;
+
+exports[`should render 1`] = `
+<div>
+  <div
+    class="test-search-field"
+  >
+    <span>
+      search icon
+    </span>
+    <input
+      class="test-search-input-field"
+      placeholder="Search for a product"
+      type="text"
+      value=""
+    />
+    <div />
+  </div>
+</div>
+`;
